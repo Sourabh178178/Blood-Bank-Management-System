@@ -1,20 +1,20 @@
-# 🩸 Blood Bank Management System (MERN)
+#  Blood Bank Management System (MERN)
 
 A full-stack **Blood Bank Management System** built using the **MERN stack (MongoDB, Express, React, Node)** to digitalize blood bank operations including donor management, hospital registration, blood stock management, and blood request handling.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This application helps blood banks and hospitals **store, track, and manage blood stock** in real-time. It allows **donors, hospitals, and admins** to register and perform actions based on their roles.
 
-### 🎯 Purpose
+###  Purpose
 
 To reduce manual workload, speed up emergency blood availability, and maintain a secure, transparent blood management process.
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature                  | Description                                           |
 | ------------------------ | ----------------------------------------------------- |
@@ -28,26 +28,26 @@ To reduce manual workload, speed up emergency blood availability, and maintain a
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 🌐 Frontend
+###  Frontend
 
 * React.js
 * HTML, CSS, JavaScript
 * Axios (API calls)
 * Tailwind CSS / Bootstrap
 
-### 🧩 Backend
+###  Backend
 
 * Node.js
 * Express.js
 * JWT Authentication & bcrypt
 
-### 🗄 Database
+### Database
 
 * MongoDB (Mongoose ODM)
 
-### 🔌 Additional Tools
+###  Additional Tools
 
 * REST API Architecture
 * Postman API Testing
@@ -55,7 +55,7 @@ To reduce manual workload, speed up emergency blood availability, and maintain a
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Blood-Bank-Management-System/
@@ -74,16 +74,16 @@ Blood-Bank-Management-System/
 
 ---
 
-## 🧑‍💻 Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/Sourabh178178/Blood-Bank-Management-System.git
 cd Blood-Bank-Management-System
 ```
 
-### 2️⃣ Install Dependencies
+### 2️ Install Dependencies
 
 #### Backend
 
@@ -99,7 +99,7 @@ cd ../client
 npm install
 ```
 
-### 3️⃣ Configure Environment Variables
+### 3️ Configure Environment Variables
 
 Create a `.env` file inside `/server` directory:
 
@@ -109,7 +109,7 @@ JWT_SECRET=your_secret_key
 PORT=5000
 ```
 
-### 4️⃣ Start the Application
+### 4️ Start the Application
 
 #### Run Backend
 
@@ -130,7 +130,7 @@ Now open browser at:
 
 ---
 
-## 🧪 API Routes Overview (Short)
+##  API Routes Overview (Short)
 
 | Method | Route              | Description            |
 | ------ | ------------------ | ---------------------- |
@@ -145,4 +145,4 @@ Now open browser at:
 
 ---
 
-### 🔥 Thank you for using Blood Bank Management System!
+###  Thank you for using Blood Bank Management System!
